@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b11024c4-7a6e-424b-a0c0-b646a019d79f" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/lab1.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab2/error_metrics.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab2/lab2.ipynb" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -12,9 +13,9 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 2
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 2
+}</component>
   <component name="ProjectId" id="2m9G1QyfidRqtuQUpyiP4VqPmFS" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -23,7 +24,7 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "main"
+    "git-widget-placeholder": "lab3"
   }
 }]]></component>
   <component name="SharedIndexes">
